@@ -1,7 +1,7 @@
 # Linux Kernel Developer Roadmap
 
 ## Module 1: Introduction to Linux and the Kernel
-- [**Lesson 1.1:**](#) Introduction to Linux
+- [**Lesson 1.1:**](./Lessons/Module1/L1.1.md) Introduction to Linux
 - [**Lesson 1.2:**](#) What is the Linux Kernel?
 - [**Lesson 1.3:**](#) Roles and Responsibilities of the Linux Kernel
 - [**Lesson 1.4:**](#) Overview of Linux Distributions
