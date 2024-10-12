@@ -4,7 +4,7 @@
 - [**Lesson 1.1:**](./Lessons/Module1/L1.1.md) Introduction to Linux
 - [**Lesson 1.2:**](./Lessons/Module1/L1.2.md) What is the Linux Kernel?
 - [**Lesson 1.3:**](./Lessons/Module1/L1.3.md) Roles and Responsibilities of the Linux Kernel
-- [**Lesson 1.4:**](#) Overview of Linux Distributions
+- [**Lesson 1.4:**](./Lessons/Module1/L1.4.md) Overview of Linux Distributions
 - [**Lesson 1.5:**](#) Understanding Operating Systems
 
 ## Module 2: Operating System Fundamentals
