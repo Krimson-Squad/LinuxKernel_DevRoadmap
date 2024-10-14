@@ -13,7 +13,7 @@
 - [**Lesson 2.3:**](./Lessons/Module2/L2.3.md) Introduction to Memory Management
 - [**Lesson 2.4:**](./Lessons/Module2/L2.4.md) File Systems Overview
 - [**Lesson 2.5:**](./Lessons/Module2/L2.5.md) Interprocess Communication Basics
-- [**Lesson 2.6:**](#) Introduction to Device Drivers
+- [**Lesson 2.6:**](./Lessons/Module2/L2.6.md) Introduction to Device Drivers
 
 ## Module 3: Learning Rust Programming Language
 - [**Lesson 3.1:**](#) Fundamentals of Rust
