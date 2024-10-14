@@ -8,7 +8,7 @@
 - [**Lesson 1.5:**](./Lessons/Module1/L1.5.md) Understanding Operating Systems
 
 ## Module 2: Operating System Fundamentals
-- [**Lesson 2.1:**](#) Basic Components of an Operating System
+- [**Lesson 2.1:**](./Lessons/Module2/L2.1.md) Basic Components of an Operating System
 - [**Lesson 2.2:**](#) Processes, Threads, and Scheduling
 - [**Lesson 2.3:**](#) Introduction to Memory Management
 - [**Lesson 2.4:**](#) File Systems Overview
