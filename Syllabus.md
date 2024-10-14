@@ -16,7 +16,7 @@
 - [**Lesson 2.6:**](./Lessons/Module2/L2.6.md) Introduction to Device Drivers
 
 ## Module 3: Learning Rust Programming Language
-- [**Lesson 3.1:**](#) Fundamentals of Rust
+- [**Lesson 3.1:**](./Lessons/Module3/L3.1.md) Fundamentals of Rust
 - [**Lesson 3.2:**](#) Rust Memory Management
 - [**Lesson 3.3:**](#) Concurrency in Rust
 - [**Lesson 3.4:**](#) Working with Rust Crates
