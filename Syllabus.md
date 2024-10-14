@@ -20,7 +20,7 @@
 - [**Lesson 3.2:**](./Lessons/Module3/L3.2.md) Rust Memory Management
 - [**Lesson 3.3:**](./Lessons/Module3/L3.3.md) Concurrency in Rust
 - [**Lesson 3.4:**](./Lessons/Module3/L3.4.md) Working with Rust Crates
-- [**Lesson 3.5:**](#) Writing Efficient Rust Code
+- [**Lesson 3.5:**](./Lessons/Module3/L3.5.md) Writing Efficient Rust Code
 
 ## Module 4: Getting Started with Linux
 - [**Lesson 4.1:**](#) Installing Linux
