@@ -10,7 +10,7 @@
 ## Module 2: Operating System Fundamentals
 - [**Lesson 2.1:**](./Lessons/Module2/L2.1.md) Basic Components of an Operating System
 - [**Lesson 2.2:**](./Lessons/Module2/L2.2.md) Processes, Threads, and Scheduling
-- [**Lesson 2.3:**](#) Introduction to Memory Management
+- [**Lesson 2.3:**](./Lessons/Module2/L2.3.md) Introduction to Memory Management
 - [**Lesson 2.4:**](#) File Systems Overview
 - [**Lesson 2.5:**](#) Interprocess Communication Basics
 - [**Lesson 2.6:**](#) Introduction to Device Drivers
