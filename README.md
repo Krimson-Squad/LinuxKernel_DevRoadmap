@@ -27,6 +27,7 @@
 - [**Lesson 3.4:**](./Lessons/Module3/L3.4.md) Working with Rust Crates
 - [**Lesson 3.5:**](./Lessons/Module3/L3.5.md) Writing Efficient Rust Code
 - [**Lesson 3.6:**](./Lessons/Module3/L3.6.md) Rust error handling patterns for systems programming
+- [**Lesson 3.7:**](./Lessons/Module3/L3.7.md) Unsafe Rust and FFI for low-level code
 
 ### Module 4: Getting Started with Linux
 - [**Lesson 4.1:**](#) Installing Linux
