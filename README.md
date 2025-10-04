@@ -9,6 +9,7 @@
 - [**Lesson 1.4:**](./Lessons/Module1/L1.4.md) Overview of Linux Distributions
 - [**Lesson 1.5:**](./Lessons/Module1/L1.5.md) Understanding Operating Systems
 - [**Lesson 1.6:**](./Lessons/Module1/L1.6.md) How to contribute to this roadmap
+- [**Lesson 1.7:**](./Lessons/Module1/L1.7.md) Quick guide: Reading Kernel source code
 
 ### Module 2: Operating System Fundamentals
 - [**Lesson 2.1:**](./Lessons/Module2/L2.1.md) Basic Components of an Operating System
@@ -17,6 +18,7 @@
 - [**Lesson 2.4:**](./Lessons/Module2/L2.4.md) File Systems Overview
 - [**Lesson 2.5:**](./Lessons/Module2/L2.5.md) Interprocess Communication Basics
 - [**Lesson 2.6:**](./Lessons/Module2/L2.6.md) Introduction to Device Drivers
+- [**Lesson 2.7:**](./Lessons/Module2/L2.7.md) Placeholder: Practical exercises for OS fundamentals
 
 ### Module 3: Learning Rust Programming Language
 - [**Lesson 3.1:**](./Lessons/Module3/L3.1.md) Fundamentals of Rust
