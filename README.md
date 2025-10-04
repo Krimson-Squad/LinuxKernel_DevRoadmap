@@ -8,6 +8,7 @@
 - [**Lesson 1.3:**](./Lessons/Module1/L1.3.md) Roles and Responsibilities of the Linux Kernel
 - [**Lesson 1.4:**](./Lessons/Module1/L1.4.md) Overview of Linux Distributions
 - [**Lesson 1.5:**](./Lessons/Module1/L1.5.md) Understanding Operating Systems
+- [**Lesson 1.6:**](./Lessons/Module1/L1.6.md) How to contribute to this roadmap
 
 ### Module 2: Operating System Fundamentals
 - [**Lesson 2.1:**](./Lessons/Module2/L2.1.md) Basic Components of an Operating System
