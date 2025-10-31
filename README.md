@@ -1,4 +1,4 @@
-# Linux Kernel Developer Roadmap
+sec# Linux Kernel Developer Roadmap
 
 ## Syllabus
 
@@ -84,3 +84,4 @@
 - [**Lesson 12.1:**](#) Understanding Kernel Security Vulnerabilities
 - [**Lesson 12.2:**](#) Secure Coding Practices for the Kernel
 - [**Lesson 12.3:**](#) Kernel Hardening Techniques
+- [**Lesson 12.4:**](./Lessons/Module12/L12.4.md) Kernel Hardening Techniques
