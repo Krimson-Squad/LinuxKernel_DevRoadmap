@@ -2,7 +2,7 @@
 
 A structured learning path for becoming a Linux kernel developer, with written lessons and links to supporting videos.
 
-> **Browse it live:** [https://web-indol-iota-n6ucaj0m8j.vercel.app](https://web-indol-iota-n6ucaj0m8j.vercel.app) — a Vite + Tailwind web app that renders all lessons by module.
+> **Browse it live:** [https://web-indol-iota-n6ucaj0m8j.vercel.app](https://web-indol-iota-n6ucaj0m8j.vercel.app) — a Vite + Tailwind web app that renders all lessons by module. Every lesson has its own URL (`/lesson/4-5`), inline YouTube embeds, and a quiz. Pass a quiz to mark the lesson complete — progress is saved locally in your browser (visible as a progress bar in the header and checkmarks in the sidebar).
 
 ## Syllabus
 
@@ -91,6 +91,7 @@ A structured learning path for becoming a Linux kernel developer, with written l
 - [**Lesson 12.1:**](./Lessons/Module12/L12.1.md) Understanding Kernel Security Vulnerabilities
 - [**Lesson 12.2:**](./Lessons/Module12/L12.2.md) Secure Coding Practices for the Kernel
 - [**Lesson 12.3:**](./Lessons/Module12/L12.3.md) Kernel Hardening Techniques
+- [**Lesson 12.4:**](./Lessons/Module12/L12.4.md) Kernel Hardening in Practice
 
 ## How to use this roadmap
 
