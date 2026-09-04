@@ -1,6 +1,7 @@
 // Vite glob: import every lesson Markdown file as a raw string at build time.
-// The app is in web/src, lessons are two levels up under Lessons/.
-const rawLessons = import.meta.glob('../../Lessons/**/L*.md', {
+// Lessons are synced here from the repo root by scripts/sync-lessons.mjs
+// (predev/prebuild), because the Vite project root is web/ (e.g. on Vercel).
+const rawLessons = import.meta.glob('./lessons-data/**/L*.md', {
   query: '?raw',
   import: 'default',
   eager: true,
