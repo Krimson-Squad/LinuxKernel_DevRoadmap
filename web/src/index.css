@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* Nicer typography for rendered lesson Markdown */
+.lesson-body h1 { @apply text-3xl font-bold text-slate-900 mt-6 mb-4; }
+.lesson-body h2 { @apply text-2xl font-bold text-slate-900 mt-6 mb-3; }
+.lesson-body h3 { @apply text-xl font-semibold text-slate-900 mt-5 mb-2; }
+.lesson-body p { @apply text-slate-700 leading-relaxed my-3; }
+.lesson-body ul { @apply list-disc ml-6 my-3 text-slate-700; }
+.lesson-body ol { @apply list-decimal ml-6 my-3 text-slate-700; }
+.lesson-body li { @apply my-1; }
+.lesson-body blockquote {
+  @apply border-l-4 border-blue-300 bg-blue-50 pl-4 py-1 my-3 text-slate-600 italic;
+}
+.lesson-body code {
+  @apply bg-slate-100 text-pink-700 px-1.5 py-0.5 rounded text-sm;
+}
+.lesson-body pre {
+  @apply bg-slate-900 text-slate-100 p-4 rounded-lg overflow-x-auto my-3 text-sm;
+}
+.lesson-body pre code { @apply bg-transparent text-inherit p-0; }
+.lesson-body table { @apply border-collapse my-3; }
+.lesson-body th, .lesson-body td { @apply border border-slate-300 px-3 py-1.5; }
+.lesson-body a { @apply text-blue-600 underline hover:text-blue-800; }
+.lesson-body img { @apply my-3 rounded-lg shadow-md; }
+.lesson-body hr { @apply my-6 border-slate-200; }

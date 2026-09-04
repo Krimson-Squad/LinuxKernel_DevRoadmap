@@ -1,0 +1,10 @@
+# Node
+node_modules/
+dist/
+
+# Vite cache
+.vite/
+
+# Vercel
+.vercel/
+.vercel
